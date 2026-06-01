@@ -9,9 +9,9 @@
    - IPv4 vs IPv6
    
    ## My nslookup results
-   - google.com → Address:  192.168.60.1
+   - google.com → Address: 142.250.182.110 (IPv4) and 2404:6800:4002:81a::200e (IPv6)
 
-   - github.com → 192.168.60.1
+   - github.com → 20.205.243.166
    - youtube.com → 2404:6800:4000:100e::5d
           2404:6800:4000:100e::be
           2404:6800:4000:100e::88
