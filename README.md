@@ -9,12 +9,16 @@
    - IPv4 vs IPv6
    
    ## My nslookup results
-   - google.com → (paste IP here)
-   - github.com → (paste IP here)
-   - youtube.com → (paste IP here)
-   
+   - google.com → Address:  192.168.60.1
+
+   - github.com → 192.168.60.1
+   - youtube.com → 2404:6800:4000:100e::5d
+          2404:6800:4000:100e::be
+          2404:6800:4000:100e::88
+          2404:6800:4000:100e::5b
+          142.251.220.46
    ## One thing that confused me
-   (Write something honest here. Even "nothing" is a valid answer — but be honest.)
+nothing 
    
    ## One question I still have
-   (Write any question that came up.)
+   nothing just will be better day by day 
